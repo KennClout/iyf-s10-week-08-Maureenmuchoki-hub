@@ -1,8 +1,8 @@
-# Week 8: MtaaShare - Community Borrowing & Sharing Hub
+# Week 8: Helpstar - Community Borrowing & Sharing Hub
 
 ## Author
-- **Name:** Maureen Muchoki
-- **GitHub:** [@maureenmuchoki-hub](https://github.com/maureenmuchoki-hub)
+- **Name:** KennClout
+- **GitHub:** [@KennClout-hub](https://github.com/KennClout-hub)
 - **Date:** April 21, 2026
 
 ## Project Description
@@ -79,4 +79,4 @@ src/
 
 ## Live Demo
 
-[View Live Site](https://iyf-s10-week-08-maureenmuchoki-hub.vercel.app/)
+[View Live Site](https://iyf-s10-week-08-kennclout-hub.vercel.app/)
