@@ -2,7 +2,7 @@
 
 ## Author
 - **Name:** Kenn Clout
-- **GitHub:** [@KennClout-hub](https://github.com/kennclout-hub)
+- **GitHub:** [@KennClout-hub](https://github.com/Kennclout-hub)
 - **Date:** April 21, 2026
 
 ## Project Description
