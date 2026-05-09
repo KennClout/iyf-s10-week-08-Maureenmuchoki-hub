@@ -1,8 +1,8 @@
 # Week 8: MtaaShare - Community Borrowing & Sharing Hub
 
 ## Author
-- **Name:** Maureen Muchoki
-- **GitHub:** [@maureenmuchoki-hub](https://github.com/maureenmuchoki-hub)
+- **Name:** Kenn Clout
+- **GitHub:** [@KennClout-hub](https://github.com/kennclout-hub)
 - **Date:** April 21, 2026
 
 ## Project Description
@@ -30,7 +30,7 @@ The app connects two sides:
 
 ## How to Run
 1. Clone this repository: git clone https://github.com/maureenmuchoki-hub/iyf-s10-week-08-Maureenmuchoki-hub.git
-2. Navigate to the project folder: cd iyf-s10-week-08-Maureenmuchoki-hub
+2. Navigate to the project folder: cd iyf-s10-week-08-KennClout-hub
 3. Install dependencies:
 npm install
 4. Start the development server:
@@ -79,4 +79,4 @@ src/
 
 ## Live Demo
 
-[View Live Site](https://iyf-s10-week-08-maureenmuchoki-hub.vercel.app/)
+[View Live Site](https://iyf-s10-week-08-keenclout-hub.vercel.app/)
