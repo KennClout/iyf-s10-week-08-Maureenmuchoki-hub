@@ -29,7 +29,7 @@ The app connects two sides:
 - 📦 **My Items Page** — Track everything you've posted
 
 ## How to Run
-1. Clone this repository: git clone https://github.com/maureenmuchoki-hub/iyf-s10-week-08-Maureenmuchoki-hub.git
+1. Clone this repository: git clone https://github.com/kennclout-hub/iyf-s10-week-08-KennClout-hub.git
 2. Navigate to the project folder: cd iyf-s10-week-08-KennClout-hub
 3. Install dependencies:
 npm install
